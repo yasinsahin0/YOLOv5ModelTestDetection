@@ -1,0 +1,7 @@
+train: ../savasan_data/images/train/
+val: ../savasan_data/images/val/
+
+# Classes
+nc: 1
+names: ['plane']  
+
